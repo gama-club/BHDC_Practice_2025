@@ -5,6 +5,8 @@ Hello! This repo contains GAMA members' practice work. We've set up 4 private ka
 
 Please upload your code whenever you can! Collaboration will be very helpful.
 
-When you upload, please do it in the directory associated with the Kaggle comp you're competing in. Additionally, please **make a sub-directory with your name** to upload your code. 
+When you upload, please do it in the directory associated with the Kaggle comp you're competing in. Additionally, please **make a sub-directory with your name** to upload your code.
+
+You can see how this has been done in each of the 4 competition directories for Christian Geils
 
 Thanks and have fun!
